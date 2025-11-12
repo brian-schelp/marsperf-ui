@@ -7,6 +7,37 @@ const users = [
     email: 'user@nextmail.com',
     password: '123456',
   },
+  {
+    id: '1bf86ad2-4c64-4f7a-aa01-3ca481ec161b',
+    name: 'Brian',
+    email: 'brian@marsperform.com',
+    password: 'HU7z06J8{s2=6',
+  },{
+    id: 'a23e4103-9f9c-4500-8fb6-048e0c278262',
+    name: 'Alan',
+    email: 'alan@marsperform.com',
+    password: '-(5qG,aF`E^z',
+  },{
+    id: 'a9bfccff-07c1-4a07-b481-185c7b73f715',
+    name: 'Brandon',
+    email: 'brandon@marsperform.com',
+    password: '8`4K{ahN`3yZ',
+  },{
+    id: '0b32b2a0-cda7-4bc0-bb8c-166eaebdf3be',
+    name: 'Kim',
+    email: 'kim@marsperform.com',
+    password: '03g5R#dj89d*',
+  },{
+    id: 'e5447472-a629-43b9-9817-1947ad9ef14f',
+    name: 'Ridda',
+    email: 'ridda@marsperform.com',
+    password: '>9Jg,uM2Kv>.',
+  },{
+    id: 'a89b9677-14ce-4e2e-9f06-742717cc71c3',
+    name: 'Vanessa',
+    email: 'vanessa@marsperform.com',
+    password: 'HL5tb.t<5910',
+  },  
 ];
 
 const customers = [
